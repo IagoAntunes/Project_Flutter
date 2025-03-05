@@ -1,5 +1,5 @@
 # User Stories for Login/Registration
-
+  
 ## 1. Application Registration
 **As** an unregistered user,  
 **I want** to register by entering my username, email, and password and clicking the "Sign Up" button,  
